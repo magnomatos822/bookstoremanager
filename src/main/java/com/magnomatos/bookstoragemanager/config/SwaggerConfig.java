@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 
 
-    private static final String BASE_PACKAGE = "com.magnomatos.bookstoragemanager";
+    private static final String BASE_PACKAGE = "com.magnomatos.bookstoragemanager.controller";
     private static final String API_TITLE = "Bookstore Manage";
     private static final String API_DESCRIPTION = "Bookstore API Manager";
     private static final String API_VERSION = "1.0.0";
